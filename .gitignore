@@ -1,0 +1,6 @@
+bin
+lib
+include
+pyvenv.cfg
+.idea
+.DS_Store
