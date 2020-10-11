@@ -4,3 +4,5 @@ include
 pyvenv.cfg
 .idea
 .DS_Store
+.env
+__pycache__
